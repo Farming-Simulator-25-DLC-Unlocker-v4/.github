@@ -1,4 +1,4 @@
-# **CreamAPI: Automatic Farming Simulator 2025 DLC Unlocker & Activator**
+# **Farming Simulator 2025 DLC Unlocker & Activator**
 
 **CreamAPI** is a tool that automatically activates DLCs in **Farming Simulator 2025**.
 
