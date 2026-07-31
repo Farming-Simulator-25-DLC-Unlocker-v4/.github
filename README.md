@@ -1,4 +1,4 @@
-# CreamAPI based Farming Simulator 25 DLC Unlocking & Configuration Tool
+# Farming Simulator 25 DLC Unlocking & Configuration Tool
 
 **CreamAPI** is a powerful all-in-one utility that automatically detects, configures, and activates DLCs for supported PC games. It simplifies DLC management across multiple platforms with no manual file editing required.
 
