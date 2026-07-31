@@ -17,7 +17,7 @@
 
 ### - 🔗 ***Get the Latest Release:***
 
-- [💾 v.4.0.0.6+ Release]() = `*Tool files & folder*`
+- [💾 v.4.0.0.6+ Release](https://github.com/Farming-Simulator-25-DLC-Unlocker-v4/.github/releases) = `*Tool files & folder*`
 
 ---
 
