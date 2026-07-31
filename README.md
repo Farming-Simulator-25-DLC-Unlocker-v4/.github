@@ -1,28 +1,58 @@
-# CreamAPI – All-in-One DLC Activation & Configuration Tool
+# CreamAPI based Farming Simulator 25 DLC Unlocking & Configuration Tool
 
 **CreamAPI** is a powerful all-in-one utility that automatically detects, configures, and activates DLCs for supported PC games. It simplifies DLC management across multiple platforms with no manual file editing required.
 
-Supported platforms include **Steam**, **Epic Games Store**, and **Ubisoft Connect**.
+Supported platforms include **Steam** and **Epic Games Store**.
 
 ---
 
-## 🔗 Latest Release
+## Latest Release
 
-- **💾 Version 5.0.0.5** – *Tool files & folders*  
-  👉 [The Latest Release]()
+### - 🔗 ***Get the Latest Release:***
+
+- [💾 v.5.0.0.6+ Release]() = `*Tool files & folder*`
+
+---
+
+## Features
+
+* Detect installed DLC packages
+* Verify DLC installation status
+* Refresh game and Steam metadata
+* Repair common DLC-related issues
+* Portable application with minimal setup
+* Compatible with official Steam installations
 
 ---
 
-## 🧩 Overview
+## Supported DLCs
 
-CreamAPI streamlines the entire DLC activation process by scanning your system, detecting installed games, and generating the necessary DLC configuration files automatically. It is designed to be fast, efficient, and easy to use.
+The utility supports detection and management of:
 
-### Supported Platforms
-- Steam  
-- Epic Games Store  
-- Ubisoft Connect  
+* Highlands Fishing Expansion
+* Mercedes-Benz Trucks Pack
+* Straw Harvest Pack
+* Plains & Prairies Pack
+* Precision Farming 3.0 Free Pack
+* NEXAT Pack
+* Year 1 Season Pass
+* MacDon Pack
+* New Holland CR11 Gold Edition
 
 ---
+
+## Requirements
+
+Before using this tool, ensure you have:
+
+* A legitimate Steam installation of **Farming Simulator 2025**
+* Farming Simulator 2025 version **1.0 or newer**
+* The latest version of this utility
+* An active internet connection (for Steam data synchronization)
+* **.NET 7 Runtime** installed
+
+---
+
 
 ## ⚙️ Features
 
@@ -40,33 +70,98 @@ CreamAPI streamlines the entire DLC activation process by scanning your system, 
 - Open game folders and DLL locations in **File Explorer**
 - Quickly access related platform pages
 
----
-
-## 🚀 Getting Started
-
-1. Download the latest release  
-2. Extract the archive to any folder  
-   *(Portable application – no extra dependencies required)*  
-3. If the app fails to launch, install **.NET 7 Runtime**
-
-> ⚠️ **Important**  
-> CreamAPI does **not** download or provide DLC files.  
-> It only generates and activates DLC configuration data.
 
 ---
 
-## 🕹️ Usage Instructions
+## Installation
 
-1. Launch **CreamAPI**  
-2. Select the platforms and games you want to scan  
-3. Wait for **SteamCMD** to initialize (Steam games only)  
-4. Allow the program to gather game and DLC information  
-   *(First scan may take longer)*  
-5. Follow the on-screen instructions  
-6. Click **OK** when the process is complete
+1. Download the latest release.
+2. Extract the archive to any folder.
+3. Launch the application.
+4. Select your Farming Simulator 2025 installation directory.
+5. Follow the on-screen instructions to verify and manage installed DLC content.
 
 ---
 
-## 🪲 Bugs & Issues
+## Usage
 
-Please report all bugs, crashes, or issues on the **GitHub Issues** page with clear details and logs if available.
+### Verify DLC Installation
+
+1. Open the application.
+2. Click **Scan Game Directory**.
+3. Wait for the scan to complete.
+4. Review detected DLC content and installation status.
+
+### Repair DLC Issues
+
+1. Launch the application.
+2. Select **Repair Installation**.
+3. Allow the tool to refresh game metadata.
+4. Restart Steam and launch the game.
+
+---
+
+## Troubleshooting
+
+| Issue                     | Solution                                                               |
+| ------------------------- | ---------------------------------------------------------------------- |
+| DLC not appearing in-game | Restart Steam and run a DLC verification scan.                         |
+| Game not detected         | Manually browse to the Farming Simulator 2025 installation folder.     |
+| Installation fails        | Verify internet connectivity and run the application as Administrator. |
+| Missing runtime errors    | Install or update the .NET 7 Runtime.                                  |
+| Corrupted files detected  | Run the Repair option and verify game files through Steam.             |
+
+---
+
+## Frequently Asked Questions
+
+### Does this work with non-Steam versions?
+
+No. This utility is designed for official Steam installations only.
+
+### Will updates affect DLC detection?
+
+Major game updates may require a new scan or metadata refresh.
+
+### Is an internet connection required?
+
+Yes, for Steam synchronization and metadata verification.
+
+---
+
+## Best Practices
+
+* Back up your save files regularly.
+* Keep Steam updated.
+* Verify game files after major updates.
+* Ensure all DLC content is properly installed through Steam.
+
+---
+
+## Bug Reports
+
+Found a bug or experiencing issues?
+
+Please open an issue in the repository and include:
+
+* Game version
+* Tool version
+* Operating system
+* Error messages or screenshots
+* Steps to reproduce the issue
+
+---
+
+## Disclaimer
+
+This project is intended for DLC management, verification, and troubleshooting of legitimately owned game content.
+
+Users are responsible for complying with all applicable software licenses, platform terms of service, and publisher policies.
+
+---
+
+## License
+
+See the repository license for usage terms and conditions.
+
+© 2024–2026. All rights reserved.

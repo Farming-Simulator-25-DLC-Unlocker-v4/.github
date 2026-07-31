@@ -1,18 +1,6 @@
-# CreamAPI based Farming Simulator 25 DLC Unlocking & Configuration Tool
+# **CreamAPI: Automatic Farming Simulator 2025 DLC Unlocker & Activator**
 
-**CreamAPI** is a powerful all-in-one utility that automatically detects, configures, and activates DLCs for supported PC games. It simplifies DLC management across multiple platforms with no manual file editing required.
-
-Supported platforms include **Steam** and **Epic Games Store**.
-
----
-
-## Latest Release
-
-### - 🔗 ***Get the Latest Release:***
-
-- [💾 v.5.0.0.6+ Release]() = `*Tool files & folder*`
-
----
+**CreamAPI** is a tool that automatically activates DLCs in **Farming Simulator 2025**.
 
 ## Features
 
@@ -22,6 +10,14 @@ Supported platforms include **Steam** and **Epic Games Store**.
 * Repair common DLC-related issues
 * Portable application with minimal setup
 * Compatible with official Steam installations
+
+---
+
+## Latest Release
+
+### - 🔗 ***Get the Latest Release:***
+
+- [💾 v.4.0.0.6+ Release]() = `*Tool files & folder*`
 
 ---
 
@@ -50,26 +46,6 @@ Before using this tool, ensure you have:
 * The latest version of this utility
 * An active internet connection (for Steam data synchronization)
 * **.NET 7 Runtime** installed
-
----
-
-
-## ⚙️ Features
-
-### 🔍 Automatic Game Detection
-- Scans your system for installed games from Steam, Epic Games, and Ubisoft Connect
-- Automatically finds required game and DLL directories
-
-### 🧠 Smart DLC Data Parsing
-- Parses DLC data using SteamCMD, Steam Store, and Epic Games Store
-- Caches retrieved information for faster future scans
-
-### 📁 Handy Right-Click Utilities
-- Open parsed app info in **Notepad++**
-- Refresh Steam and Epic app data
-- Open game folders and DLL locations in **File Explorer**
-- Quickly access related platform pages
-
 
 ---
 
